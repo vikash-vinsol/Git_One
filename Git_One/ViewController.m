@@ -18,7 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"App run2");
+
+    NSLog(@"App run1");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
