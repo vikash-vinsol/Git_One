@@ -18,7 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    NSLog(@"App run complete");
+    NSLog(@"App run");
     
     // Do any additional setup after loading the view, typically from a nib.
 }
