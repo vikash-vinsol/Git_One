@@ -11,7 +11,6 @@
 @interface Products : NSObject
 {
     NSString *name;
-    NSString *productImage2;
 }
 
 @property (nonatomic,strong) NSArray *productArray2;
