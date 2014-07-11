@@ -15,5 +15,8 @@
 }
 
 @property (nonatomic,strong) NSArray *productArray2;
+@property (nonatomic,strong) NSMutableArray *productsArray;
+
+
 
 @end
