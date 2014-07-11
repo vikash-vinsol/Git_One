@@ -13,4 +13,6 @@
     NSString *name;
 }
 
+@property (nonatomic,strong) NSArray *productArray;
+
 @end
