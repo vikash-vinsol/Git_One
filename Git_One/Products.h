@@ -9,5 +9,10 @@
 #import <Foundation/Foundation.h>
 
 @interface Products : NSObject
+{
+    NSString *name;
+}
+
+@property (nonatomic,strong) NSArray *productArray;
 
 @end

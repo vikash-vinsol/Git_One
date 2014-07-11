@@ -9,5 +9,6 @@
 #import "Products.h"
 
 @implementation Products
+@synthesize productArray;
 
 @end
