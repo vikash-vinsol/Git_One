@@ -14,6 +14,6 @@
     NSString *productImage;
 }
 
-@property (nonatomic,strong) NSArray *productArray;
+@property (nonatomic,strong) NSArray *productArray2;
 
 @end
